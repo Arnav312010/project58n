@@ -1,0 +1,33 @@
+body {
+    text-align: Center;
+}
+
+img {
+    border-radius: 50%;
+    width: 20%;
+}
+
+h1 {
+    text-shadow: blue;
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: left;
+    top: 10px;
+    right: 30x;
+    cursor: pointer;
+    color: black;
+
+}
+
+#myname {
+    font-family: 'Alegreya', cursive;
+}
